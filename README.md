@@ -1,12 +1,7 @@
 In the design the characters are placed as,
+CH1, CH2, CH3, CH4 in line 1 and CH5, CH6, CH7, CH8 in line 2.
 
-|˙˙˙˙˙| |˙˙˙˙˙| |˙˙˙˙˙| |˙˙˙˙˙| //(Line 1)                                                                        
-| CH1 | | CH2 | | CH3 | | CH4 |                                                                               
-|ˍˍ ˍ ˍˍ| |ˍˍ ˍ ˍˍ| |ˍˍ ˍ ˍˍ| |ˍˍ ˍ ˍˍ|                                                                         
-                                                  
-|¯¯¯ ¯¯| |¯¯¯ ¯¯| |¯¯¯ ¯¯| |¯¯¯ ¯¯| //(Line 2)                                                
-| CH5 | | CH6 | | CH7 | | CH8 |                                         
-|ˍˍ ˍ ˍˍ| |ˍˍ ˍ ˍˍ| |ˍˍ ˍ ˍˍ| |ˍˍ ˍ ˍˍ|                                                               
+The Generated Data have each character line by line.
 
 **CH=Character
 
