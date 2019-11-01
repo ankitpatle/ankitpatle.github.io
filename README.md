@@ -11,8 +11,8 @@ In the design the characters are placed as,
 **CH=Character
 
 This is just a Quick and Dirty code modified by me.
-Original Credit goes to [maxpromer](https://github.com/maxpromer)
+Original Credit goes to [maxpromer](https://github.com/maxpromer).
 
-Here's  the [original page](https://maxpromer.github.io/LCD-Character-Creator/)
+Here's  the [original page](https://maxpromer.github.io/LCD-Character-Creator/).
 
 # ankitpatle.github.io
