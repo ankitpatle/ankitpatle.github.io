@@ -82,9 +82,9 @@ h2 {
 
 .dot-hline {
 	width: 32px;
-	height: 1px;
+	height: 10px;
 	margin: 2px;
-	border: #FFF 1px solid;
+	border: #FFF 0px solid;
 	display: inline-block;
 }
 
