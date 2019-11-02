@@ -73,10 +73,10 @@ h2 {
 }
 
 .dot-line {
-	width: 1px;
+	width: 5px;
 	height: 32px;
 	margin: 2px;
-	border: #FFF 1px solid;
+	border: #FFF 0px solid;
 	display: inline-block;
 }
 
