@@ -73,9 +73,17 @@ h2 {
 }
 
 .dot-line {
-	width: 2px;
+	width: 1px;
 	height: 32px;
 	margin: 0px;
+	border: #FFF 1px solid;
+	display: inline-block;
+}
+
+.dot-hline {
+	width: 32px;
+	height: 1px;
+	margin: 2px;
 	border: #FFF 1px solid;
 	display: inline-block;
 }
