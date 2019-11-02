@@ -72,6 +72,14 @@ h2 {
 	display: inline-block;
 }
 
+.dot-line {
+	width: 2px;
+	height: 32px;
+	margin: 0px;
+	border: #FFF 1px solid;
+	display: inline-block;
+}
+
 .config {
 	float: left;
 	margin-left: 15px;
