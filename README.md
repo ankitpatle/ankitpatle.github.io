@@ -8,6 +8,6 @@ The Generated Data have each character line by line.
 This is just a Quick and Dirty code modified by me.
 Original Credit goes to [maxpromer](https://github.com/maxpromer).
 
-Here's  the [original page](https://maxpromer.github.io/LCD-Character-Creator/).
+Here's  the [original repo](https://maxpromer.github.io/LCD-Character-Creator/).
 
 # ankitpatle.github.io
